@@ -1,0 +1,122 @@
+.invoice-btn1{
+    background-image:linear-gradient(50deg,green,green,rgb(0, 201, 0));
+    border:none;
+    border-radius: 6px;
+    padding: 5px;
+    margin: 3px;
+    color:whitesmoke;
+    font-size:25px;
+    box-shadow: 2px 1px 5px rgb(141, 141, 141);
+}
+.invoice-btn2{
+    background-image:linear-gradient(50deg,orange,rgb(221, 144, 0),rgb(255, 189, 66));
+    border:none;
+    border-radius: 6px;
+    padding: 5px 40px 5px 40px;
+    margin: 3px;
+    color:whitesmoke;
+    font-size:25px;
+    box-shadow: 2px 1px 5px rgb(141, 141, 141);
+}
+
+.invoice-btn3{
+    background-color: #28A7451A;
+    color:green;
+    border:0.1px solid green;
+    border-radius:2px;
+    margin:4px;
+    font-size: 20px;
+}
+.invoice-btn4{
+    background-color: #DC35451A;
+    color:#b90000;
+    border:0.1px solid #b90000;
+    border-radius:2px;
+    margin:4px;
+    font-size: 20px;
+
+}
+/* customer details table */
+.addInv-cInfo-wrapper{
+    margin-top:5px;
+}
+.addInv-cInfo-title{
+    width: 15%;
+    margin-top: 13px;
+}
+.addInv-cInfo-input{
+    width: 85%;
+    height: 45px;
+    margin: 2px;
+    outline: none;
+    border:0.5px solid #b9b9b97e;
+    border-radius: 2px;
+}
+
+/* table */
+.addInv-thead0{
+    width: 2%;
+    border:0.5px solid #b9b9b97e;
+    padding:10px;
+}
+.addInv-thead1{
+    width: 20%;
+    border:0.5px solid #b9b9b97e;
+    padding:10px;
+}
+.addInv-thead2{
+    width: 5%;
+    border:0.5px solid #b9b9b97e;
+    padding:10px;
+    background-color: rgb(228, 255, 241);
+}
+.addInv-thead3{
+    width: 10%;
+    border:0.5px solid #b9b9b97e;
+    padding:10px;
+}
+.addInv-thead4{
+    width: 10%;
+    border:0.5px solid #b9b9b97e;
+    padding:10px;
+    background-color: rgb(228, 255, 241);
+}
+.addInv-thead5{
+    width: 10%;
+    border:0.5px solid #b9b9b97e;
+    padding:10px;
+}
+.addInv-thead6{
+    width: 5%;
+    border:0.5px solid #b9b9b97e;
+    padding:10px;
+    background-color: rgb(228, 255, 241);
+}
+
+/* table input */
+.addInv-tbody{
+    border:0.5px solid #b9b9b97e;
+    padding:5px;
+}
+.addInv-tbody input{
+    width: 100%;
+    height: 45px;
+    border:0.5px solid #b9b9b97e;
+}
+
+/*calculate*/
+.addInv-calc-title{
+    width: 175px;
+    border:0.5px solid #b9b9b97e;
+    padding:5px;
+}
+.addInv-calc-input{
+    width: 300px;
+    border:0.5px solid #b9b9b97e;
+    padding:5px;
+}
+.addInv-calc-input input{
+    width: 100%;
+    height: 45px;
+    border:0.5px solid #b9b9b97e;
+}
